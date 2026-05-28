@@ -1,0 +1,13 @@
+.Loader {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    border: 20px solid #6dd3ce;
+    border-top:20px solid #a13d63;
+    animation: Rotation 1s linear 1s infinite;
+}
+
+@keyframes Rotation {
+    from {transform: rotate(0deg);}
+    to {transform: rotate(360deg);}
+}

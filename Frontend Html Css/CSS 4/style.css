@@ -1,0 +1,36 @@
+body {
+    text-align:center;
+}
+
+div {
+    height:100px;
+    width:100px;
+    display:inline-block;
+    border:2px solid black;
+}
+
+#container {
+    width: 800px;
+    height: 200px;
+    display:flex;
+}
+
+#Box1 {
+    background-color:bisque;
+}
+
+#Box2 {
+    background-color:cadetblue;
+}
+
+#Box3 {
+    background-color:chocolate;
+}
+
+#Box4 {
+    background-color:darkgreen;
+}
+
+#Box5 {
+    background-color:rgb(161, 120, 150);
+}

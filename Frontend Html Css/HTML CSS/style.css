@@ -1,0 +1,23 @@
+.myClass {
+    text-decoration:underline;
+    text-decoration:overline;
+    text-decoration:underline;
+    color:rgb(137, 91, 22)
+}
+
+button {
+    background-color:aquamarine;
+    color:red;
+}
+
+#box {
+    font-size:20px;
+    background-color:blue;
+    color:aliceblue;
+    
+}
+
+p {
+    text-align:center;
+}
+
