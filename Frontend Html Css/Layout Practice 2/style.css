@@ -1,0 +1,80 @@
+* {
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: aliceblue;
+    height: 100%;
+}
+
+.logo {
+    background-color: grey;
+    height : 80px;
+    width : 100%;
+    display: flex;
+    align-items: center;
+    font-size: 30px;
+    font-weight :800;
+    margin-bottom: 20px;
+    padding-left: 7px;
+}
+
+.container-2 {
+    height:120px;
+    display : flex;
+    margin-bottom: 20px;
+}
+
+.SideBar {
+    width : 40%;
+    font-size: 20px;
+    font-weight: 600;
+    display : flex;
+    justify-content: center;
+    align-items: center ;
+}
+
+.header-Banner {
+    background-color: grey;
+    width : 60%;
+    font-size: 20px;
+    font-weight: 600;
+    display : flex;
+    justify-content: center;
+    align-items: center ;
+}
+
+.Body-Area  {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.Empty-div {
+    height :400px;
+    width  :40%;
+}
+
+.Box-2 {
+    background-color: grey;
+    height :400px;
+    width  :60%;
+    font-size: 20px;
+    font-weight :600;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Last {
+    background-color: grey;
+    height : 70px;
+    width : 100%;
+    font-size: 20px;
+    font-weight: 600;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
